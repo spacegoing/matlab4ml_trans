@@ -1,0 +1,10 @@
+#+LATEX_HEADER: \usepackage{ctex}
+#+LATEX_COMPILER: xelatex
+
+* 第五章：模式识别之分类算法
+** 'detree_snp'分类
+** 概率分类模型——'naba_snp'分类
+** 'dian_snp'分类
+** 'knn_snp'分类
+** MATLAB分类器APP
+** 总结

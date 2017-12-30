@@ -28,7 +28,8 @@ regular_snp,正则化,Regularization,
 cost_func_snp,损失函数,cost function,
 gradient_snp,梯度,gradient,
 feve_snp,特征向量,feature vector,
-classifier,分类器,classifier,
+classifier_snp,分类器,classifier,
+similarity_snp,相似度,similarity,
 ,模型,,
 anns_snp,人工神经网络,artificial neural networks,ANNs
 cnn_snp,卷积神经网络,convolutional neural network,CNN
@@ -48,9 +49,9 @@ bagged_snp,袋装,bagged,
 out_of_bag_snp,袋外,out-of-bag,
 detree_snp,决策树,decision tree,
 naba_snp,朴素贝叶斯分类,naive-bayes,
-knn_snp,K-邻近分类算法,k-Nearest neighbor,KNN
+knn_snp,K-近邻分类算法,k-Nearest neighbor,KNN
 kmean_snp,K-均值聚类算法,k-means,
-kmed_snp,K-邻近样本中心算法,k-medoids,
+kmed_snp,K-近邻样本中心算法,k-medoids,
 hiclu_snp,层次聚类法,hierarchical clustering,
 gmm_snp,高斯混合模型,gaussian mixture models,GMM
 hmm_snp,隐马尔科夫模型,hidden markov models,HMM
@@ -216,6 +217,11 @@ bivariate_snp,二元,bivariate,
 multivariate_snp,多元,multivariate,
 local_para_snp,定位参数,localization parameter,
 ols_snp,普通最小二乘法,ordinary least squares,OLS
+prior_snp,先验概率,prior,
+poste_snp,后验概率,posterior,
+like_snp,似然函数,likelihood,
+CI_snp,条件独立,conditional independence,
+confmat_snp,混淆矩阵,confusion matrix,
 ,,,
 ,图像处理术语,,
 bit_depth_snp,色深,bit-depth,

@@ -1,3 +1,7 @@
 *.html
 *compiled*
 /Matlab4MachineLearning.pdf
+auto/
+*trans.docx
+*trans.pdf
+*trans.tex

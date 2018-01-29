@@ -55,6 +55,7 @@ detree_snp,决策树,decision tree,
 naba_snp,朴素贝叶斯分类,naive-bayes,
 knn_snp,K-近邻分类算法,k-Nearest neighbor,KNN
 kmean_snp,K-均值聚类算法,k-means,
+fcm_snp,模糊C聚类,fuzzy c-means,FCM
 kmed_snp,K-近邻样本中心算法,k-medoids,
 hiclu_snp,层次聚类法,hierarchical clustering,
 paclu_snp,原型聚类法,partitioning clustering,
@@ -229,6 +230,7 @@ poste_snp,后验概率,posterior,
 like_snp,似然函数,likelihood,
 CI_snp,条件独立,conditional independence,
 confmat_snp,混淆矩阵,confusion matrix,
+roc_snp,受试者工作特征曲线,receiver operating characteristic,ROC
 ,,,
 ,图像处理术语,,
 bit_depth_snp,色深,bit-depth,
